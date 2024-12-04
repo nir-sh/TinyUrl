@@ -1,0 +1,11 @@
+# Ignore patch files
+*.patch
+
+# Ignore unnecessary files
+*.log
+*.tmp
+*.swp
+target/
+.DS_Store
+.idea/
+*.iml
